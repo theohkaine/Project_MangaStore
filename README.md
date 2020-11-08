@@ -9,8 +9,7 @@ The pages are all in French but it can toggled to English when ever the customer
 
 
 ## The process of adding a book into the cart.
-Before adding a book to the cart, the customer needs to login first. 
-All credentials of the customer will be then store into a database for which any important information will be hashed.
+Before adding a book to the cart, the customer needs to login first. All credentials of the customer will be then store into a database for which any important information will be hashed.
 ![alt-text](gifs/3.gif)
 ![alt-text](gifs/4.gif)
 
@@ -38,14 +37,3 @@ This is required for the admin of the website can easily change the books inform
 ![alt-text](Pictures/8.png)
 
 ![alt-text](Pictures/9.png)
-
-![alt-text](Pictures/10.png)
-
-![alt-text](Pictures/11.png)
-
- 
- 
- 
- 
-
-
