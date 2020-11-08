@@ -20,12 +20,12 @@ Final project for the final semester in the class Web Application 2 at la Cité.
 
 ## The website contains the payment method of *Paypal*.
 
-![alt-text](Pictures/5.png)
-
 ![alt-text](Pictures/4.png)
+![alt-text](Pictures/6.png)
 
 ## Every purshase will be then put into a database for the order to processed at a later date.
-![alt-text](Pictures/6.png)
+
+![alt-text](Pictures/5.png)
 
 
 
