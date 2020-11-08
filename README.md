@@ -13,19 +13,26 @@ Final project for the final semester in the class Web Application 2 at la Cité.
 ![alt-text](gifs/4.gif)
 
 
-
- ![alt-text](Pictures/1.png)
+## Pictures of the cart section.
+![alt-text](Pictures/1.png)
 
 ![alt-text](Pictures/2.png)
 
 ![alt-text](Pictures/3.png)
 
+
+##  ff
 ![alt-text](Pictures/4.png)
 
 ![alt-text](Pictures/5.png)
 
 ![alt-text](Pictures/6.png)
 
+
+
+
+
+## tooo
 ![alt-text](Pictures/7.png)
 
 ![alt-text](Pictures/8.png)
