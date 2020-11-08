@@ -3,6 +3,16 @@ Final project for the final semester in the class Web Application 2 at la Cité.
  
 ## The front end of my website
 ![alt-text](gifs/1.gif)
+![alt-text](gifs/2.gif)
+
+
+
+## The process of adding a book into the cart.
+![alt-text](gifs/3.gif)
+
+![alt-text](gifs/4.gif)
+
+
 
  ![alt-text](Pictures/1.png)
 
@@ -30,12 +40,5 @@ Final project for the final semester in the class Web Application 2 at la Cité.
  
  
  
- 
 
-
-![alt-text](gifs/2.gif)
-
-![alt-text](gifs/3.gif)
-
-![alt-text](gifs/4.gif)
 
