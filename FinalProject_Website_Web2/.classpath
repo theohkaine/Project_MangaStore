@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk11.0.3_7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/lib/mysql-connector-java-commercial-8.0.14.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/lib/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/lib/gson-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/lib/base64-2.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/xampp/tomcat/lib/org-apache-commons-codec.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

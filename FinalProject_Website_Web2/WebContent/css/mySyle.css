@@ -1,0 +1,138 @@
+.bookIcon
+{
+    width: 120px;
+    height: 100px;
+    padding-right: 29px;
+}
+.title
+{
+    font-family: "Bernard MT Condensed", serif;
+    font-size: 65px;
+}
+.semi-title
+{
+    font-size: 15px;
+}
+.navbar-custom
+{
+    color: #FFFFFF;
+    background-color: #667599;
+}
+
+.fa-1x {
+font-size: 1.5rem;
+}
+.navbar-toggler.toggler-example {
+cursor: pointer;
+}
+.dark-blue-text 
+{
+color: black;
+}
+
+#BookChanMenu
+{
+  font-family: "Bernard MT Condensed", serif;
+  font-size: 30px;
+  color: black;
+}
+
+strong
+{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+h4
+{
+  font-size: 35px;  
+  text-align: center;
+  font-family: "Bernard MT Condensed", serif"
+}
+
+.inner{
+    overflow: hidden;
+}
+ 
+.inner img{
+    transition: all 1.3s ease;
+}
+ 
+.inner:hover img{
+    transform: scale(1.2);
+}
+.gradientImage
+{
+   background-image: radial-gradient(circle, #5deced, #00d5ff, #85b1ff, #df7ee3, #ff4d82);
+    margin-top:15px;
+}
+
+.navbarGradient
+{
+    background-image:radial-gradient(circle, #cd295a, #b156ad, #5e82d8, #009ed0, #38adae);
+}
+.navbarBackGradient
+{
+    background-image:  linear-gradient(to bottom, #38adae, #009ed0, #5e82d8, #b156ad, #cd295a);
+}
+.longTextAjustment h6
+{
+    color: blue;
+}
+
+div #sale
+{
+    color: red;
+}
+
+.table-image td {
+
+    vertical-align: middle;
+}
+
+.table-image th {
+    vertical-align: middle;
+  
+}
+
+.creditCardButton
+{
+   margin:auto;
+   display:block;
+   text-align: center;
+}
+
+.btn {
+  background-color: #38ADAE;
+  color: white;
+  border: none;
+  cursor: pointer;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.btn:hover {
+  background-color: #b156ad;
+}
+
+.form-control {
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+
+border-radius: 10px;
+}
+
+.smallButton {
+    padding: 8px 5px;
+    font-size: 14px;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.textCenter
+{
+   text-align: center; 
+}
